@@ -11,6 +11,8 @@ public class App {
 
         System.out.println("Received pull request from DEV");
         
+        //this line from another developper
+        //made just for pull request
         System.out.println("Please apply my PULL REQUEST with this line ;-)");
 
     }
