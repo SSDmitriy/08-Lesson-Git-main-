@@ -10,6 +10,8 @@ public class App {
         System.out.println("Line for 3rd commit");
 
         System.out.println("Received pull request from DEV");
+        
+        System.out.println("Please apply my PULL REQUEST with this line ;-)");
 
     }
 }
