@@ -14,6 +14,9 @@ public class App {
         //this line from another developper
         //made just for pull request
         System.out.println("Please apply my PULL REQUEST with this line ;-)");
+        
+        //I'm added one more line
+        System.out.println("New line after CODE REVIEW for pull request");
 
     }
 }
